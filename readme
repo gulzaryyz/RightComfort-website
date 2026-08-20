@@ -4,7 +4,7 @@ RIGHT COMFORT WEBSITE - SIMPLE GUIDE & INSTRUCTIONS
 WHAT IS THIS WEBSITE AND HOW DOES IT WORK?
 -------------------------------------------
 Your website (rightcomfort.ca) is stored on GitHub and delivered to visitors by Cloudflare.
-
+**Cloudflare is a Domain Registrar
 Think of it like this:
 1. GitHub is your digital filing cabinet where your website files (like index.html) live.
 2. Cloudflare is your automatic publisher that takes your files from GitHub and shows them to anyone visiting rightcomfort.ca.
