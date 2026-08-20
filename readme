@@ -1,1 +1,58 @@
+RIGHT COMFORT WEBSITE - SIMPLE GUIDE & INSTRUCTIONS
+===================================================
 
+WHAT IS THIS WEBSITE AND HOW DOES IT WORK?
+-------------------------------------------
+Your website (rightcomfort.ca) is stored on GitHub and delivered to visitors by Cloudflare.
+
+Think of it like this:
+1. GitHub is your digital filing cabinet where your website files (like index.html) live.
+2. Cloudflare is your automatic publisher that takes your files from GitHub and shows them to anyone visiting rightcomfort.ca.
+3. Every time you save a change on GitHub, Cloudflare automatically updates your live website in less than a minute!
+
+
+WHERE ARE YOUR WEBSITE FILES?
+-----------------------------
+* index.html : This is your main web page containing all the written text, phone numbers, and section headings.
+* style.css  : This controls the look of your website (colors, font sizes, spacing, and button styles).
+* images/    : The folder holding pictures, icons, and logo files used on your site.
+
+
+HOW TO CHANGE TEXT OR PHONE NUMBERS ON YOUR WEBSITE
+--------------------------------------------------
+Step 1: Open GitHub in your web browser.
+        Go to: https://github.com/gulzaryyz/RightComfort-website
+
+Step 2: Click on the file you want to edit.
+        (Usually "index.html" to change words, services, or phone numbers).
+
+Step 3: Click the Pencil icon in the top-right corner to start editing.
+
+Step 4: Make your text changes.
+
+Step 5: Save your changes.
+        Click the "Commit changes..." button at the top right, type a short note about what you changed (for example: "Updated phone number"), and click "Commit changes".
+
+That is all! Cloudflare will automatically publish your updated site in 15 to 30 seconds.
+
+
+WHAT TO DO IF YOU DON'T SEE YOUR CHANGES RIGHT AWAY
+----------------------------------------------------
+If you saved your changes on GitHub, but rightcomfort.ca still shows the old version:
+
+1. Refresh your browser memory (Cache):
+   On Linux / Windows (Chrome): Press Ctrl + Shift + R
+   On Mac: Press Cmd + Shift + R
+
+2. Test in an Incognito / Private Window:
+   On Chrome: Press Ctrl + Shift + N, then go to rightcomfort.ca
+
+3. Give it 30–60 seconds:
+   The automated system takes a short moment to send the new files to internet servers worldwide.
+
+
+HELPFUL THINGS TO KNOW
+----------------------
+* You NEVER need to press any separate "Publish" button — saving on GitHub does it automatically.
+* Nobody else on the internet can edit your website code unless you log them in.
+* If you ever make a mistake while editing, GitHub keeps a history of all your old saved versions so you can go back anytime.
